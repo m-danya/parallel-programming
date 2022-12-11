@@ -1,0 +1,2 @@
+rm *.err
+cat *.out
